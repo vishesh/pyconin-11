@@ -1,0 +1,25 @@
+
+We have uploaded few examples and slides of our talk. Few examples are still
+left to be uplaoded. We'll be hosting everything on our github repositories. The
+links are:
+
+You will find Siddhant's example on his website.
+
+    - http://github.com/vishesh
+    - http://github.com/siddhant3s
+
+Examples right now will compile without problem on *nix systems and I'm pretty
+sure that it'll work with Microsoft Windows as well. Once I get access to a
+machine with Windows, I'll upload makefiles that will work there. FYI I wont
+upload MSVC Project files :P
+
+simple-plugin example in C examples is written in C++ and Qt Frameworks. FYI
+implementation is very naive. Its just a simple demo on what you can do with
+that, so need to think on that part. 
+
+Many examples are modified versions of Python documentation examples. Its highly
+recommended that you go through them as well. 
+
+Vishesh: www.vishesh-yadav.com 
+Siddhant: www.yatantrika.co.cc
+
